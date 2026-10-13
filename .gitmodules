@@ -7,3 +7,9 @@
 [submodule "drivers/net/can/usb-can-2-module"]
 	path = drivers/net/can/usb-can-2-module
 	url = https://github.com/V0lk3n/usb-can-2-module
+[submodule "docker"]
+	path = docker
+	url = https://github.com/cyberknight777/android_kernel_docker
+[submodule "nethunter"]
+	path = nethunter
+	url = https://github.com/cyberknight777/android_kernel_nethunter
