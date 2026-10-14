@@ -1533,3 +1533,4 @@ endmenu
 
 endmenu
 source "docker/Kconfig"
+source "nethunter/Kconfig"
